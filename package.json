@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/donaf/freecodecamp/issues"
   },
-  "homepage": "https://github.com/donaf/freecodecamp#readme"
+  "homepage": "https://github.com/donaf/freecodecamp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
